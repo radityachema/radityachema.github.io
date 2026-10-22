@@ -9,6 +9,14 @@ categories: notes
 
 This year I joined NTU DeepSpeed as a student mentor for the organization side; i.e., planning, logistics, and keeping everything running at the school. All the engineering work is done by the students themselves. One of the best aspects of my first PhD year so far has been to see them working up close.
 
+<div class="row justify-content-center mt-3">
+  <div class="col-sm-10">
+    {% include figure.liquid loading="eager" path="assets/img/deepspeed_ifac2026_team.jpg" class="img-fluid rounded z-depth-1" alt="NTU DeepSpeed team with their two autonomous race cars at IFAC 2026, Busan" %}
+  </div>
+</div>
+<div class="caption">The NTU DeepSpeed team with both cars at the 29th RoboRacer Competition, IFAC 2026, Busan. Photo: NTU DeepSpeed.</div>
+
+
 They ran their 2026 season in three races:
 
 **ICRA 2026 (Vienna)**

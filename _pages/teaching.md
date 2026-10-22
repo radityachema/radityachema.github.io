@@ -19,6 +19,14 @@ nav_order: 3
 
 [NTU DeepSpeed](https://www.linkedin.com/company/ntudeepspeed/) is a student-led autonomous racing team at NTU. The team designs, builds and races 1:10-scale autonomous cars in the international RoboRacer (F1TENTH) competitions. Its stack covers the whole pipeline: mapping and localization, LiDAR perception, raceline optimization, local planning with overtaking, and low-level control. I support the team as a mentor on the organizational side: planning, logistics and coordination with the school.
 
+<div class="row justify-content-center mt-3">
+  <div class="col-sm-10">
+    {% include figure.liquid loading="eager" path="assets/img/deepspeed_ifac2026_team.jpg" class="img-fluid rounded z-depth-1" alt="NTU DeepSpeed team with their two autonomous race cars at IFAC 2026, Busan" %}
+  </div>
+</div>
+<div class="caption">The NTU DeepSpeed team with both cars at the 29th RoboRacer Competition, IFAC 2026, Busan. Photo: NTU DeepSpeed.</div>
+
+
 **2026 season highlights (team results):**
 
 | Event                                                    | Result                                                                                                                |
