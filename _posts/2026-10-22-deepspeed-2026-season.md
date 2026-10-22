@@ -30,6 +30,7 @@ They ran their 2026 season in three races:
     title="NTU DeepSpeed: 2nd place at the IROS 2026 RoboRacer Sim Racing League"
     style="max-width:100%;"></iframe>
 </div>
+<p class="text-center"><a href="https://www.linkedin.com/posts/ntudeepspeed_simracing-iros2026-roboracer-activity-7511275541510078465-RNFy" target="_blank" rel="noopener">Embed not loading? View this post on LinkedIn →</a></p>
 
 <div class="d-flex justify-content-center my-4">
   <iframe
@@ -38,5 +39,6 @@ They ran their 2026 season in three races:
     title="NTU DeepSpeed: IFAC 2026 race recap, Busan"
     style="max-width:100%;"></iframe>
 </div>
+<p class="text-center"><a href="https://www.linkedin.com/posts/ntudeepspeed_robotics-autonomousracing-roboracer-activity-7503384991893073920-k80J" target="_blank" rel="noopener">Embed not loading? View this post on LinkedIn →</a></p>
 
 More from the team on [their LinkedIn page](https://www.linkedin.com/company/ntudeepspeed/posts/).
