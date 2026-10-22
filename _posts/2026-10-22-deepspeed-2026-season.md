@@ -21,7 +21,7 @@ They ran their 2026 season in three races:
 
 **The IROS 2026 Sim-Racing League**
 
-- They took second place in this event, qualifying in first position, losing to the leader by 0.44 seconds with no crashes or errors.
+- They took second place in this event, qualifying in first position, losing to the leader by 0.44 seconds with no crashes.
 
 <div class="d-flex justify-content-center my-4">
   <iframe
