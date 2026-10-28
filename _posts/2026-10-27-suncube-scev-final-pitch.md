@@ -10,11 +10,14 @@ categories: notes
 On 27 October 2026, our team presented **SunCube** at the **Singapore Climate & Energy Ventures (SCEV) 2026 Final Pitch**, held during SWITCH (Singapore Week of Innovation and Technology) at Marina Bay Sands. SunCube is an early-stage, NUS-originated crop-first agrivoltaic design system, and it was selected for the SCEV 2026 programme run by NTU, NUS and A\*STAR.
 
 <div class="row justify-content-center mt-3">
-  <div class="col-sm-10">
+  <div class="col-sm-7 mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/suncube_scev2026_final_pitch.jpg" class="img-fluid rounded z-depth-1" alt="The SunCube team pitching at the SCEV 2026 Final Pitch, Marina Bay Sands" %}
   </div>
+  <div class="col-sm-5 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/suncube_scev2026_chema_presenting.jpg" class="img-fluid rounded z-depth-1" alt="Raditya Chema presenting SunCube's products at the SCEV 2026 Final Pitch" %}
+  </div>
 </div>
-<div class="caption">The SunCube team at the SCEV 2026 Final Pitch, SWITCH 2026, Marina Bay Sands. Photo: SunCube team.</div>
+<div class="caption">Left: the SunCube team at the SCEV 2026 Final Pitch, SWITCH 2026, Marina Bay Sands. Right: presenting SunCube's products. Photos: SunCube team.</div>
 
 I worked on SunCube as part of the SCEV team, with Morgan Jones and Zhenye Fu, over the eight-week programme, with guidance from our mentor Xuan Rong Tan.
 
